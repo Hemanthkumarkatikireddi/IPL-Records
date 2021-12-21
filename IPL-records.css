@@ -1,0 +1,58 @@
+.ipl-bg{
+    background-color: black;
+    width: 390px;
+    height:650px;
+    padding: 0px;
+    margin-left: 300px;
+}
+.kl-rahul-box{
+    text-align: left;
+    padding:10px 15px;
+    background-color: #fb4e71;
+    color: white;
+    margin-right: 10px;
+}
+p{
+    font-size: 16px;
+}
+
+.ipl-records{
+    background-color: #e6f6ff;
+    padding:0px 20px;
+    margin-right: 10px;
+    height: 476px;
+}
+.side-heading{
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 20px;
+    padding:10px 0px ;
+}
+.kl-rahul-intro{
+    background-color: white;
+    border-radius: 10px;
+}
+.kl-rahul-intro2{
+    padding: 10px;
+}
+.kl-rahul-intro2 p{
+    color: #323f4b;
+    font-size: 15px;
+}
+
+
+.video1>p{
+    font-weight: bold;
+    font-size: 11px;
+    width: 120px;
+    height: 11px;
+}
+.button{
+    margin-left: 118px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: #1080e9;
+    border: 0px;
+    font-size: smaller;
+}
